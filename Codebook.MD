@@ -8,3 +8,9 @@ Step5: Combine the records for Test and Train
 Step6: Melt the Data Only using the id as subject and activity
 Step7: Get The Mean 
 Step8: Write tidy data to the file.
+
+#Variables
+subject - integer ids representing each of the participants in the studty
+activity - factor variable representing each activity
+The rest of the columns - the mean of this variable in the original dataset
+
