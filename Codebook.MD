@@ -22,7 +22,7 @@ subject - integer ids representing each of the participants in the studty
 activity - factor variable representing each activity
 The rest of the columns - the mean of this variable in the original dataset
 
-This code book summarizes the resulting data fields in tidy.txt. Identifiers
+This code book summarizes the resulting data fields in tidyBH.txt. Identifiers
 
 subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
